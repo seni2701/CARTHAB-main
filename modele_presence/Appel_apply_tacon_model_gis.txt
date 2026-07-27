@@ -1,0 +1,7 @@
+Fichier shapefile :
+
+python apply_tacon_model_gis.py --input "D:\MLBG\Transect_N2_MLB.shp" --output "D:\MLBG\Transect_N2_MLB_pred.shp" --bundle "modele_tacon_3vars_absok.joblib" --threshold f1 --threshold_source loro --map_distance distance --map_slope m_slope_5 --verbose
+
+GPKG : 
+
+python apply_tacon_model_gis.py --input "D:\MLBG\Transect_N2_MLB.gpkg" --layer "transect_n2_mlb" --output "D:\MLBG\Transect_N2_MLB_pred.gpkg" --bundle "modele_tacon_3vars_absok.joblib" --threshold f1 --threshold_source loro --map_distance distance --verbose
