@@ -1,0 +1,14 @@
+pyproject.toml
+Segmentation/choisir_images.py
+Segmentation/creer_index_utilisees.py
+Segmentation/creer_vrai_index.py
+Segmentation/decoupage_images.py
+Segmentation/nettoyer_index_ortho.py
+Segmentation/segmentation.py
+Segmentation/choix_seuils/choix_seuils_seg.py
+Segmentation/choix_seuils/src/napari_visualisation.py
+carthab.egg-info/PKG-INFO
+carthab.egg-info/SOURCES.txt
+carthab.egg-info/dependency_links.txt
+carthab.egg-info/requires.txt
+carthab.egg-info/top_level.txt
